@@ -1,2 +1,3 @@
 # Garrysmod-AntiFreeze-Python
-an old python script i dont use anymore, maybe othrs will find use.
+LINUX ONLY!
+Kills the srcds process so it can restart if your server is frozen by a malicious or accidental abuse of physics.
